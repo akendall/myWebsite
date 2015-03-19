@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "andew-kendall",
+  "description": "A starter project for Andrew Kendall",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/akendall/myWebsite.git",
   "license": "MIT",
   "private": true,
   "dependencies": {
