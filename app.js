@@ -8,5 +8,5 @@ angular.module('myApp', [
   'myApp.version'
 ]).
 config(['$routeProvider', function($routeProvider) {
-  $routeProvider.otherwise({redirectTo: '/app/portfolio'});
+  $routeProvider.otherwise({redirectTo: '/portfolio'});
 }]);
